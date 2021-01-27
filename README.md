@@ -1,1 +1,0 @@
-# deprem_sinavi
